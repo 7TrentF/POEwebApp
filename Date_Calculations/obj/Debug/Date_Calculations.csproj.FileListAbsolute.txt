@@ -1,0 +1,6 @@
+C:\Users\trent\OneDrive\Desktop\School\Subjects\PROG\POE\WebApplication1\Date_Calculations\bin\Debug\Date_Calculations.dll
+C:\Users\trent\OneDrive\Desktop\School\Subjects\PROG\POE\WebApplication1\Date_Calculations\bin\Debug\Date_Calculations.pdb
+C:\Users\trent\OneDrive\Desktop\School\Subjects\PROG\POE\WebApplication1\Date_Calculations\obj\Debug\Date_Calculations.csproj.AssemblyReference.cache
+C:\Users\trent\OneDrive\Desktop\School\Subjects\PROG\POE\WebApplication1\Date_Calculations\obj\Debug\Date_Calculations.csproj.CoreCompileInputs.cache
+C:\Users\trent\OneDrive\Desktop\School\Subjects\PROG\POE\WebApplication1\Date_Calculations\obj\Debug\Date_Calculations.dll
+C:\Users\trent\OneDrive\Desktop\School\Subjects\PROG\POE\WebApplication1\Date_Calculations\obj\Debug\Date_Calculations.pdb
